@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
-<h3 align="center">From Cairo Student at Al-Alson High Institute in management information systems (MIS)</h3>
+<h3 align="center">From Cairo </br>Student at Al-Alson High Institute in management information systems (MIS)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technohamed&label=Profile%20views&color=0e75b6&style=flat" alt="technohamed" /> </p>
 
