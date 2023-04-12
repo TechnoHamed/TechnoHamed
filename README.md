@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technohamed" alt="technohamed" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
+
 - 🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TechnoHamed](https://github.com/TechnoHamed)
@@ -24,8 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/320218252cc7042c02c3b5a07ab39ca88f8b8acd6b53d50e021972ac01157ba9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c68746d6c2c6373732c6e6f64656a732c70792c7461696c77696e642c7675652c6e7578742c6d6f6e676f64622c707269736d612c646f636b65722c6669676d61" alt="SkillIcons" data-canonical-src="https://skillicons.dev/icons?i=ps,ai,xd,ar,pr,au,vscode,linux,discord,arduino,lua,html,css,js,cpp,py,github" style="max-width: 100%;"></a><br>
-<a href="https://github.com/tandpfun/skill-icons">^ These icons are one of my projects!</a></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=technohamed&show_icons=true&locale=en&layout=compact" alt="technohamed" /></p>
 
