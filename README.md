@@ -9,9 +9,24 @@
 <img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif"></p>
 <p align="left" >
 # 💫 About Me:
-🔭 I’m currently working at **Security**<br>👯 I’m looking to working as **IT Manger**
-<br>🌱 I’m currently learning **CEH, CCNA, A+, **<br>💬 Ask me about **Programing,Graphic Designer, Video Edit**
-<br>⚡ Fun fact I'm **Crazy😅** </p>
+🔭 I’m currently working at <b>Security</b><br>👯 I’m looking to working as <b>IT Manger<b>
+<br>🌱 I’m currently learning <b>CEH, CCNA, A+, </b><br>💬 Ask me about <b>Programing,Graphic Designer, Video Edit</b>
+<br>⚡ Fun fact I'm <b>Crazy😅</b> </p>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedhamed.0010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hamed665) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technohamed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TechnoHamed) 
