@@ -11,15 +11,15 @@
 
   <h1>💫 About Me: </h1>
   
-- 🔭 I’m currently working at **Security**
+- 🔭 I’m currently working at **Security**.
   
-- 👯 I’m looking to working as **IT Manger**
+- 👯 I’m looking to working as **IT Manger**.
   
--  🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**
+-  🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**.
   
-- 💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**
+- 💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**.
   
-- ⚡ Fun fact **I'm Crazy😅**
+- ⚡ Fun fact **I'm Crazy😅**.
 
 <br>
 
