@@ -3,20 +3,15 @@
 <hr>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=594EAD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile😃" alt="Typing SVG" /></p></a>
-
-<p align="right" max-width="60%">
-<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif"></p>
-<p align="left" >
-# 💫 About Me:
-🔭 I’m currently working at <b>Security</b><br>👯 I’m looking to working as <b>IT Manger<b>
-<br>🌱 I’m currently learning <b>CEH, CCNA, A+, </b><br>💬 Ask me about <b>Programing,Graphic Designer, Video Edit</b>
-<br>⚡ Fun fact I'm <b>Crazy😅</b> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=594EAD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile😃" alt="Typing SVG" /></p></a><hr>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif">
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
+
+[![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -27,6 +22,10 @@
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+
+
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedhamed.0010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hamed665) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technohamed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TechnoHamed) 
