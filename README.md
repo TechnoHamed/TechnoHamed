@@ -22,7 +22,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TechnoHamed&theme=nightowl&hide_border=false)<br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=technohamed&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
