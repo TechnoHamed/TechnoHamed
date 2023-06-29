@@ -35,7 +35,7 @@
 <br>
 
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://visitcount.itsvg.in) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
 
