@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=BA5F17&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-<a href="https://ibb.co/VJSB4ZG"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" style="text-align: center;"></a>
+<a href="#"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" center=true style="text-align:center; align-items:center;"></a>
 
 <br>
+
 
 # 💫 About Me:
 🔭 I’m currently working at Security<br>👯 I’m looking to working as IT Manger<br>🌱 I’m currently learning C++, CEH, CCNA, A+, Python<br>💬 Ask me about Programing, Cyber Security, Graphic Designer, Video Edit<br>⚡ Fun fact I'm Crazy😅
