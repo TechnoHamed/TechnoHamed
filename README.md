@@ -32,11 +32,14 @@
 <br>
 <br>
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,bootstrap,&perline=4&theme=dark)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=arduino,discord,github,linux,vscode,visualstudio,&perline=3&theme=dark)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,figma,blender,&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,bootstrap,&perline=4&theme=dark)](https://github.com/TechnoHamed) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=arduino,discord,github,linux,vscode,visualstudio,&perline=3&theme=dark)](https://github.com/TechnoHamed) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,figma,blender,&perline=4&theme=dark)](https://github.com/TechnoHamed)
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
+[![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://visitcount.itsvg.in) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=TechnoHamed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TechnoHamed&theme=nightowl&hide_border=false)<br>
 
 
