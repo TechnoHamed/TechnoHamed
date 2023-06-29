@@ -3,7 +3,7 @@
 
 <a href="https://ibb.co/VJSB4ZG"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" height="200px" width="200px"></a>
 
-<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" height="200px" width="200px">
+<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="6px">
 
 <br>
 
