@@ -27,9 +27,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=technohamed&show_icons=true&locale=en&layout=compact" alt="technohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technohamed&show_icons=true&locale=en" alt="technohamed" /></p>
