@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://minimalistic-wallpaper.demolab.com/?random" max-width="90%"></p>
-<!-- <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/muhammad-nafay-deer-and-the-fireflies.jpg" max-width="80%"></p> -->
+<!-- <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/muhammad-nafay-deer-and-the-fireflies.jpg" max-width="75%"></p> -->
 
 <br>
 <p align="center">
