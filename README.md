@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://minimalistic-wallpaper.demolab.com/?random" max-width="100%">
+<img src="https://minimalistic-wallpaper.demolab.com/?random" max-width="90%">
 
 <br>
 <p align="center">
