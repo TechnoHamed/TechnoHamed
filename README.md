@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BA5F17&center=true&vCenter=true&repeat=false&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Ahmed+Hamed%2C++Welcome+To+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=BA5F17&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/72yyh77/8da45163336fc62161cd3ae7b302d925.gif">
+<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="200px" width="200px">
 <br>
 
 # 💫 About Me:
