@@ -1,3 +1,6 @@
+
+
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/72yyh77/8da45163336fc62161cd3ae7b302d925.gif">
 <h1 align="center"> Hi 👋, I'm Ahmed Hamed</h1>
 <br>
 
