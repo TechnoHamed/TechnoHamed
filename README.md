@@ -10,7 +10,7 @@
 <p align="left" >
 # 💫 About Me:
 🔭 I’m currently working at **Security**<br>👯 I’m looking to working as **IT Manger**
-<br>🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**<br>💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**
+<br>🌱 I’m currently learning **CEH, CCNA, A+, **<br>💬 Ask me about **Programing,Graphic Designer, Video Edit**
 <br>⚡ Fun fact I'm **Crazy😅** </p>
 
 ## 🌐 Socials:
