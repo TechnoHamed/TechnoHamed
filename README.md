@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=BA5F17&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-
-<a href="https://ibb.co/VJSB4ZG"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" height="200px" width="200px"></a>
-
-<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="6px">
+<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" border="0">
 
 <br>
 
