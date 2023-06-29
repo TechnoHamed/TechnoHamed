@@ -13,15 +13,16 @@
 [![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working at **Security**
+  
+- 👯 I’m looking to working as **IT Manger**
+  
+-  🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**
+  
+- 💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**
+  
+- ⚡ Fun fact **I'm Crazy😅**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 
 
