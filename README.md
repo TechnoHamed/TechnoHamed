@@ -6,8 +6,9 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working at Security<br>👯 I’m looking to working as IT Manger<br>🌱 I’m currently learning C++, CEH, CCNA, A+, Python<br>💬 Ask me about Programing, Cyber Security, Graphic Designer, Video Edit<br>⚡ Fun fact I'm Crazy😅
-
+🔭 I’m currently working at<b>Security</b><br>👯 I’m looking to working as <b>IT Manger</b>
+<br>🌱 I’m currently learning <b>C++, CEH, CCNA, A+, Python</b><br>💬 Ask me about <b>Programing, Cyber Security, Graphic Designer, Video Edit</b>
+<br>⚡ Fun fact I'm <b>Crazy😅</b>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedhamed.0010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hamed665) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technohamed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TechnoHamed) 
