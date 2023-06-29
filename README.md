@@ -10,6 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif">
 
   <h1>💫 About Me: </h1>
+  
 - 🔭 I’m currently working at **Security**
   
 - 👯 I’m looking to working as **IT Manger**
