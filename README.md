@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=BA5F17&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" >
+<style>#centered-image{height:100%;margin:0;display:flex;justify-content:center;align-items:center;display:block;margin:auto}</style>
+<img id="centered-image" src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="صورة متحركة">
 <br>
 
 
