@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=BA5F17&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="200px" width="200px">
 
-<a href="https://ibb.co/VJSB4ZG"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0"></a>
-[url=https://ibb.co/VJSB4ZG][img]https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif[/img][/url]
+<a href="https://ibb.co/VJSB4ZG"><img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" height="200px" width="200px"></a>
+
+<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif" alt="6352cb28262707-5637231a2a4a7" border="0" height="200px" width="200px">
 
 <br>
 
