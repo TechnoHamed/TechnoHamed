@@ -6,7 +6,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working at<b>Security</b><br>👯 I’m looking to working as <b>IT Manger</b>
+🔭 I’m currently working at <b>Security</b><br>👯 I’m looking to working as <b>IT Manger</b>
 <br>🌱 I’m currently learning <b>C++, CEH, CCNA, A+, Python</b><br>💬 Ask me about <b>Programing, Cyber Security, Graphic Designer, Video Edit</b>
 <br>⚡ Fun fact I'm <b>Crazy😅</b>
 
