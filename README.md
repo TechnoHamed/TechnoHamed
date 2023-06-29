@@ -20,15 +20,13 @@
   
 - ⚡ Fun fact **I'm Crazy😅**
 
-
-
-
 <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedhamed.0010) &nbsp;
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hamed665) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technohamed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TechnoHamed) 
+[![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://github.com/TechnoHamed)
 <br>
 <br>
 # 💻 Tech Stack:
@@ -50,8 +48,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TechnoHamed&icon=0&color=6)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmedhamed.0010) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahmedhamedmohamed) 
 
