@@ -1,18 +1,17 @@
 <p align="center">
-<img src="https://minimalistic-wallpaper.demolab.com/?random" max-width="90%">
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/muhammad-nafay-deer-and-the-fireflies.jpg" max-width="90%"></p>
 <hr>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=594EAD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile😃" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=594EAD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamed;Welcome+To+My+Profile😃" alt="Typing SVG" /></p></a>
 
-<p align="center">
-<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif">
-<br>
-
+<p align="right" max-width="60%">
+<img src="https://i.ibb.co/MZVN04H/6352cb28262707-5637231a2a4a7.gif"></p>
+<p align="left" >
 # 💫 About Me:
-🔭 I’m currently working at <b>Security</b><br>👯 I’m looking to working as <b>IT Manger</b>
-<br>🌱 I’m currently learning <b>C++, CEH, CCNA, A+, Python</b><br>💬 Ask me about <b>Programing, Cyber Security, Graphic Designer, Video Edit</b>
-<br>⚡ Fun fact I'm <b>Crazy😅</b>
+🔭 I’m currently working at **Security**<br>👯 I’m looking to working as **IT Manger**
+<br>🌱 I’m currently learning **C++, CEH, CCNA, A+, Python**<br>💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**
+<br>⚡ Fun fact I'm **Crazy😅** </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedhamed.0010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hamed665) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technohamed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TechnoHamed) 
