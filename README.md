@@ -15,7 +15,7 @@
   
 - 👯 I’m looking to working as **IT Manger**.
   
--  🌱 I’m currently learning *-A+, N+, CCNA, Linux+, CEH, Python**.
+-  🌱 I’m currently learning **A+, N+, CCNA, Linux+, CEH, Python**.
   
 - 💬 Ask me about **Programing, Cyber Security, Graphic Designer, Video Edit**.
   
